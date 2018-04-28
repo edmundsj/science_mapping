@@ -1,0 +1,117 @@
+References
+
+[1] William Nye, David C. Riley, Alberto Sangiovanni-Vincentelli, Andre L. Tits,
+DELIGHT. SPICE: an optimization-based system for the design of integrated
+circuits, IEEE Trans. Comput.-Aided Des. Integr. Circuits Syst. 7 (4) (1988)
+501–519.
+
+[2] Marc G.R. Degrauwe, et al., IDAC: an interactive design tool for analog CMOS
+
+circuits, IEEE J. Solid-State Circuits 22 (6) (1987) 1106–1116.
+
+[3] Georges G.E. Gielen, Herman C.C. Walscharts, Willy M. Sansen, Analog circuit
+design optimization based on symbolic simulation and simulated annealing,
+Solid-State Circuits 25 (3) (1990) 252–255.
+
+[4] Rutenbar, Rob, Analog design automation: Where are we? Where are we
+going? in: Proceedings of the Custom Integrated Circuits Conference, Pro-
+ceedings of the IEEE 1993, IEEE, 1993.
+
+[5] Barcelona Design Unveils Revolutionary Analog Circuit Solution, prnewswire.
+
+com/prn/11690X15251303, April 8, 2002.
+
+[6] Costello's analog automation pioneer, Barcelona, to fold, EETIMES doc_id:
+
+1217996, 3/4/2005.
+
+[7] Carl Martin Allwood, Tomas Kalen, Usability in CAD – A psychological per-
+
+spective, Int. J. Human Factors Manuf. 4 (2) (1994) 145–165.
+
+[8] Jakob Nielsen, Usability Engineering Chapter 5.5, Morgan Kaufmann, San
+
+Francisco, 1993.
+
+[9] Chenming Hu, BSIM model for circuit design using advanced technologies, in:
+Proceedings of the Symposium on VLSI Circuits, Digest of Technical Papers,
+2001, pp. 5–10.
+
+[10] Ngspice Users, Manual version 26 (describes ngspice-26 release version) Paolo
+
+Nenzi, Holger Vogt (2014).
+
+[11] Georges G.E. Gielen, Rob Rutenbar, Computer-aided design of analog and
+
+mixed-signal integrated circuits, Proc. IEEE 88.12 (2000) 1825–1854.
+
+[12] Chung-Wen Ho, Albert E. Ruehli, Pierce A. Brennan, The modiﬁed nodal
+approach to network analysis, IEEE Trans. Circuits Syst. 22 (6) (1975) 504–509.
+[13] Borchers, Carsten, Lars Hedrich, Erich Barke, Equation-based behavioral model
+generation for nonlinear analog circuits, in: Proceedings of the 33rd Annual
+Design Automation Conference, ACM, 1996.
+
+[14] Kwang S. Yoon, Phillip E. Allen, An adjustable accuracy model for VLSI analog
+circuits using lookup tables, Analog Integr. Circuits Signal Process. 1 (1) (1991)
+45–63.
+
+[15] A. Rofougaran, et al., A Table lookup FET model for accurate analog circuit
+
+simulation, IEEE Trans. CAD 12 (2) (1993) 324–335.
+
+[16] V. Rajiv, N. Joshi, Kanj Rouwaida, Kim Keunwoo, Table lookup method for
+physics based models for SPICE-like simulators, U. S. Patent No. 606,557,10 Dec
+2013.
+
+[17] Yishai Statter, Tom Chen, A novel high-throughput method for table look-up
+
+based analog design automation, Integr. VLSI J. (2016) 168–181.
+
+[18] T. Tuma, B. Árpád, Circuit simulation with SPICE OPUS: theory and practice,
+
+Springer Science & Business Media (2009).
+
+[19] Litho Guide, Physical Analyzer User. "Cadence", San Jose, CA, USA, 2004.
+[20] Kim Jang Dae, et al., Algorithmic reactive testbench for analog designs, U. S.
+
+Patent No. 7, 853,908, 14 Dec 2010.
+
+[21] Benhala Bachir, Ahaitouf Ali, Mechaqrane Abdellah, Multiobjective optimiza-
+tion of an operational ampliﬁer by the ant colony optimisation algorithm, Sci.
+Acad. Publ. Elec. Electron. Eng. 2 (2012) 230–235.
+
+[22] R.A. Vural, T. Yildirim, Analog circuit sizing via swarm intelligence, AEU – Int. J.
+
+Electron. Commun. (2012) 732–740.
+
+[23] J.R. Koza, R. Poli, Genetic programming, Chapter 5: Search Methodologies,
+
+Springer, US (2005), p. 127–164.
+
+[24] D.M. Binkley, Tradeoffs and optimization in analog CMOS design. Mixed
+Design of Integrated Circuits and Systems, MIXDES'07. 14th International
+Conference on. IEEE, 2007.
+
+[25] Circuit Lab, Online Circuit Editing and Simulating, 〈https://www.circuitlab.
+
+com/docs/the-basics/〉.
+
+[26] Part Sim, An Online Simulator, 〈https://www.circuitlab.com/docs/the-basics/〉.
+[27] Logic Lab, Online Tool for Simple Logic Simulations, 〈http://www.neuropro
+
+ductions.be/logic-lab/〉.
+
+[28] J. Crossley, A. Puggelli, H.-P. Le, et al., BAG: a designer-oriented integrated
+framework for the development of AMS circuit generators, in: Proceedings of
+the IEEE/ACM International Conference on Computer-Aided Design (ICCAD),
+2013, pp. 74–81.
+
+[29] Cadence, Virtuoso NeoCircuits Datasheet, vol. 2, 2007, Available online:
+
+〈http://www.cadence.com/products/custom_ic〉.
+[30] Spectre, Cadence Virtuoso, Cadence home page.
+[31] Simulator, Cadence Virtuoso UltraSim Full Chip, Datasheet, pp. 1–4.
+[32] Business Wire, Business Wire, 5 February 2004. (Online).
+[33] Laker3 Custom Design Tools, Synopsys Solvenet.
+
+

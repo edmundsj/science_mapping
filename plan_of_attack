@@ -1,0 +1,13 @@
+Now that I have PDFMiner working, it can be used to extract the full text of a PDF document. For very large documents (3MB, 18 PDF pages), this takes about 10 seconds. That's actually fucking fantastic. Now I just need to figure out how to extract the references myself.
+
+Once I extract the references, I need to figure out the DOIs of each of the papers and create a directed graph of DOIs. The directed graph can just be stored as a simple dictionary, with each key being the DOI of a paper, and all the values being the references that paper cites.
+
+It looks like CrossRef might be the way I want to look up the DOIs of the papers I am interested in, and they actually have an API on github, that's pretty fucking awesome. CrossRef appears* to also contain the references to the paper, and I really wanna try and use it.
+
+Plan of Attack:
+	1. Use PDFMiner's pdf2txt tool to extract references from all papers you download (will need to write a python script to do this).
+	2. Use CrossRef's python API (habanero) to convert those raw text citations into DOIs (not sure *exactly* how but it should be doable)
+		a) add the DOIs of those papers along with any metadata you want to a master dictionary, and add them to the references of this paper's DOI in that same dictionary
+	3. Then download that paper from the URL provided by CrossRef and extract *their* references, and so on, and so on.
+
+if a paper doesn't have a DOI, then just create one by hashing the author's last name combined with the year of the paper.
